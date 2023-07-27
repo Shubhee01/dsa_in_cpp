@@ -3,6 +3,6 @@ BEGIN
 DECLARE M INT;
 SET M =N-1;
   RETURN (
-      IFNULL((SELECT DISTINCT salary FROM Employee ORDER BY salary DESC LIMIT M, 1),NULL)
+      SELECT DISTINCT salary FROM Employee ORDER BY salary DESC LIMIT M, 1
   );
 END
