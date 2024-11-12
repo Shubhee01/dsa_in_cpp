@@ -11,6 +11,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shubhee01/dsa_in_cpp/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Shubhee01/dsa_in_cpp/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Shubhee01/dsa_in_cpp/tree/master/0118-pascals-triangle) |
 | [1293-three-consecutive-odds](https://github.com/Shubhee01/dsa_in_cpp/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -33,4 +34,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shubhee01/dsa_in_cpp/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Shubhee01/dsa_in_cpp/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
